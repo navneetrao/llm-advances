@@ -1,4 +1,4 @@
-# Incorporating advances in Large Language Models (LLMs)
+# Incorporating Advances in Large Language Models (LLMs)
 
 Resource page for advances in large language models
 
