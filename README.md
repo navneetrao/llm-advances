@@ -7,7 +7,7 @@ Resource page for advances in large language models
 In order to understand concepts from the current generation of large language model research check out:
 
 Concepts around Transformers
-1. Vaswani, Ashish, et al. "Attention is all you need." Advances in neural information processing systems 30 (2017).
+1. [Attention Is All You Need research paper by Vaswani, Ashish, et al.](https://arxiv.org/abs/1706.03762)
 2. [The Illustrated Transformer blog by Jay Alammar](https://jalammar.github.io/illustrated-transformer/)
 
 Intuitions around why Supervised Fine Tuning (SFT) & Reinforcement Learning with Human Feedback (RLHF) work
